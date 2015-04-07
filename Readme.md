@@ -19,5 +19,6 @@ Yes
 $ ./install2docker
 ```
 
-You can generally ignore the uninstall error:
-"Failed to unload one or more KEXTs, please reboot the machine to complete the uninstall."
+If you get the uninstall error "Failed to unload one or more KEXTs, please
+reboot the machine to complete the uninstall," try the uninstaller again.
+Otherwise you probably ignore this error, and install without rebooting.
