@@ -1,5 +1,9 @@
 # Install2Docker
 
+Sometimes Docker, Boot2Docker and/or VirtualBox get really messed up. Completely
+removing Boot2Docker and Docker data and settings, uninstalling VirtualBox, then
+reinstalling Boot2Docker is a fail-proof way to get a working environment back.
+
 ## Usage
 
 ```bash
