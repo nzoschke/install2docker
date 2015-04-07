@@ -7,8 +7,10 @@ $ ./install2docker --uninstall
 Password:
 
 ...
+
 Do you wish to continue none the less (Yes/No)?
 Yes
+
 ...
 
 Do you wish to uninstall VirtualBox (Yes/No)?
